@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(115, 194, 167);
+    color: rgb(75, 48, 14);
+    margin: 0;
+}
+.conteudos {
+    background-color: rgb(185, 149, 102);
+    margin: 50px 0;
+    border: 2px rgb(75, 48, 14) groove;
+    padding: 10px 30px;
+}
+.topicos {
+    margin: auto 100px;
+}
+.info {
+    border-bottom: rgb(31, 138, 100) double;
+}
+
+.titulo {
+    padding-left: 200px;
+}
